@@ -3,6 +3,7 @@ Hard skills and Projects. Real examples
 
 ## Навыки
 Примеры работы, в которых требовалось владение Python, SQL или Power BI.
+Примеры приведены в файлах pdf, для каждого есть русская и английская версия (all examples are provided in pdf-files, separately in Russian and English languages).
 
 ### SQL
 Примеры запросов с тренировочного сайта (невозможно увидеть варианты решений, пока не написан верный код).
