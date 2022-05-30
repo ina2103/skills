@@ -10,7 +10,7 @@ Hard skills and Projects. Real examples
 Some query examples from a training website (you can't see answers before you give the right code).
 
 ### Power BI
-Отчет и дашборд. Мной были подобраны и обработаны данные, оформлена визуальная часть. Выге приведены файлы pbix (отчеты сделаны для британского работодателя, поэтому на английском).<br>
+Отчет и дашборд. Мной были подобраны и обработаны данные, оформлена визуальная часть. Выше приведены файлы pbix (отчеты сделаны для британского работодателя, поэтому на английском).<br>
 Report and dashboard: I picked suitable data, processed it, made visualization. See examples in pbix above.
 
 ### Python
