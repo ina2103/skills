@@ -8,6 +8,8 @@ Hard skills and Projects. Real examples
 ### SQL
 Примеры запросов с тренировочного сайта (невозможно увидеть варианты решений, пока не написан верный код).<br>
 Some query examples from a training website (you can't see answers before you give the right code).
+Файлы 2023 года - улучшение навыков от тренировочных задач до реальных.
+2023 files: development of SQL skills from training platform to real work tasks.
 
 ### Power BI
 Отчет и дашборд. Мной были подобраны и обработаны данные, оформлена визуальная часть. Выше приведены файлы pbix (отчеты сделаны для британского работодателя, поэтому на английском).<br>
